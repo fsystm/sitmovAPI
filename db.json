@@ -7,6 +7,33 @@
   ],
   "sitmovAPI": [
     {
+      "title": "The Boys",
+      "id": "the-boys",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.collider.com%2Fwp-content%2Fuploads%2F2018%2F09%2Fthe-boys-tv-series-poster.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" },
+        { "pic": "" }
+      ],
+      "imdb": "8.7",
+      "trailer": "",
+      "details": "",
+      "season": "",
+      "episodes": "",
+      "country": "",
+      "kind": "",
+      "years": ""
+    },
+    {
       "title": "La Casa De Papel",
       "id": "la-casa-de-papel",
       "pic": "http://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",

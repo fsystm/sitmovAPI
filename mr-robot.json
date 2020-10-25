@@ -1,0 +1,42 @@
+{
+      "title": "Mr. Robot",
+      "id": "mr-robot",
+      "pic": "https://i.pinimg.com/originals/db/33/72/db337203ba068cbb11175657910e22a6.jpg",
+      "casts": [
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_SY1000_CR0,0,672,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_SY1000_CR0,0,664,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMjM5MzIyNTc2OV5BMl5BanBnXkFtZTcwNzI4MzQ5OQ@@._V1_SY1000_CR0,0,664,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BNzJkNWQ3Y2YtNmVhNC00ODE4LTg2NTQtM2U5NmFjMjExM2IxXkEyXkFqcGdeQXVyMzIxNTMwMQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fkingoftheflatscreen.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fportia_doubleday_02.jpg&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvgcdn.net%2Fmediabin%2Fshowcards%2Fcelebs%2Fm-o%2Fthumbs%2Fmichael-cristofer-189243_828x1104.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://m.media-amazon.com/images/M/MV5BMTkwNTAwMjAwM15BMl5BanBnXkFtZTgwODI5NDE3NTE@._V1_SY1000_SX800_AL_.jpg"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tvgcdn.net%2Fmediabin%2Fshowcards%2Fcelebs%2Fa-b%2Fthumbs%2Fbd-wong_sc_768x1024.png&f=1&nofb=1"
+        },
+        {
+          "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcelebmafia.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fstephanie-corneliussen-gq-20th-anniversary-men-of-the-year-party-in-los-angeles-ca-2.jpg&f=1&nofb=1"
+        }
+      ],
+      "imdb": "8.5",
+      "trailer": "https://www.youtube.com/embed/N6HGuJC--rk",
+      "details": "Mr. Robot is an American drama thriller television series created by Sam Esmail for USA Network. It stars Rami Malek as Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression.",
+      "season": "4",
+      "episodes": "46",
+      "country": "us",
+      "kind": "Drama, Techno thriller, Psychological thriller",
+      "years": "2015-2019"
+    }

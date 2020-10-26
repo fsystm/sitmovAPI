@@ -1,0 +1,19 @@
+{
+      "title": "Rick and Morty",
+      "id": "rick-and-morty",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Frickandmorty%2Fimages%2F7%2F70%2FRick_and_Morty_Season_1.jpg%2Frevision%2Flatest%3Fcb%3D20161125224650&f=1&nofb=1",
+      "casts": [
+        { "pic": "https://m.media-amazon.com/images/M/MV5BOTYxMTE5MjY2Nl5BMl5BanBnXkFtZTgwMTM3Mzg3MDI@._V1_UY317_CR131,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMTM0NDYzMzU0NF5BMl5BanBnXkFtZTcwOTA3Mjc5Nw@@._V1_UY317_CR12,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMTkxNjE0NzAxMF5BMl5BanBnXkFtZTcwNjQyMjQ4Mg@@._V1_UY317_CR3,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMTkxNjE0NzAxMF5BMl5BanBnXkFtZTcwNjQyMjQ4Mg@@._V1_UY317_CR3,0,214,317_AL_.jpg" }
+      ],
+      "imdb": "9.2",
+      "trailer": "https://www.youtube.com/embed/4E7uO4_S2rw",
+      "details": "Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's late-night programming block Adult Swim. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures",
+      "season": "4",
+      "episodes": "41",
+      "country": "usa",
+      "kind": "Adult animation, Animated sitcom, Science fiction",
+      "years": "2013-"
+    }

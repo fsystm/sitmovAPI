@@ -415,6 +415,68 @@
       "country": "usa",
       "kind": "Action, Comedy, Crime, Sci-i",
       "years": "2019-"
+    },
+    {
+      "title": "Dark",
+      "id": "dark",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fewedit.files.wordpress.com%2F2017%2F11%2Fdark_us.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "https://m.media-amazon.com/images/M/MV5BZjM2NWVhNDItZjBmZS00YzYzLTk4NGUtYzE5YzI4NmZhOTE1XkEyXkFqcGdeQXVyNjA5ODQwNTA@._V1_UX214_CR0,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMjQ1MTE2ODc4N15BMl5BanBnXkFtZTgwNjAyNDkyNDM@._V1_UX214_CR0,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BNjUyZWUzYTMtNjI1ZC00YjA5LWJmOTctMDUwZmMwNTUzNmQ3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UX214_CR0,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMjMzNjUxMDk0MF5BMl5BanBnXkFtZTgwMjY1OTgyNDM@._V1_UY317_CR131,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BNTE4ZTc3MjUtMTJhMS00OWM1LWIxMmUtYTJlZGU0NGQzYTNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR131,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMTU5NjI4MzI4MV5BMl5BanBnXkFtZTgwNDI5MjIzNDM@._V1_UX214_CR0,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BOTgxNjcxNjYtODdlYy00MmU0LWI3NTUtMTBlNTUwNDBlNGYzXkEyXkFqcGdeQXVyMjI0MTExMw@@._V1_UX214_CR0,0,214,317_AL_.jpg" }
+      ],
+      "imdb": "8.8",
+      "trailer": "https://www.youtube.com/embed/rrwycJ08PSA",
+      "details": "Dark is a German science fiction thriller streaming television series co-created by Baran bo Odar and Jantje Friese. It ran for three seasons from 2017 to 2020. In the aftermath of a child's disappearance, Dark follows characters from the fictional German town of Winden as they pursue the truth.",
+      "season": "3",
+      "episodes": "26",
+      "country": "de",
+      "kind": "Science fiction, Thriller, Mystery, Tragedy",
+      "years": "2017-2020"
+    },
+    {
+      "title": "How To Sell Drugs Online (Fast)",
+      "id": "how-to-sell-drugs-online",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.crew-united.com%2FMedia%2FImages%2F982%2F982567%2F982567.1024.jpg&f=1&nofb=1",
+      "casts": [
+        { "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RjjwaAUY0QoeAxMmVrhQnAAAAA%26pid%3DApi&f=1" },
+        { "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7JlI6XsT7FMdQWP1hVWZWQAAAA%26pid%3DApi&f=1" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BOTQyMzQyYTctOGM3Ny00MTQwLWJmY2MtZTAxMTRiYWE1NTBjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY317_CR7,0,214,317_AL_.jpg" },
+        { "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.ZozpZkR6XYgsCE72zYe_wQHaJ4%26pid%3DApi&f=1" },
+        { "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.3Zb_aBh3-REldqv7Afj-6AHaJ4%26pid%3DApi&f=1" },
+        { "pic": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.PoJkVvp9nbPmiwIsJJ_qMgAAAA%26pid%3DApi&f=1" }
+      ],
+      "imdb": "7.9",
+      "trailer": "https://www.youtube.com/embed/3sxg1xXmd0I",
+      "details": "How to Sell Drugs Online is a German coming-of-age comedy-drama web series co-created by Philipp Käßbohrer and Matthias Murmann. The first season, consisting of six episodes, was released on 31 May 2019, on Netflix.",
+      "season": "2",
+      "episodes": "12",
+      "country": "de",
+      "kind": "Comedy-drama, Crime, Dark comedy, Coming-of-age, Techno-thriller, Teen drama",
+      "years": "2019-"
+    },
+    {
+      "title": "Rick and Morty",
+      "id": "rick-and-morty",
+      "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Frickandmorty%2Fimages%2F7%2F70%2FRick_and_Morty_Season_1.jpg%2Frevision%2Flatest%3Fcb%3D20161125224650&f=1&nofb=1",
+      "casts": [
+        { "pic": "https://m.media-amazon.com/images/M/MV5BOTYxMTE5MjY2Nl5BMl5BanBnXkFtZTgwMTM3Mzg3MDI@._V1_UY317_CR131,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMTM0NDYzMzU0NF5BMl5BanBnXkFtZTcwOTA3Mjc5Nw@@._V1_UY317_CR12,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMTkxNjE0NzAxMF5BMl5BanBnXkFtZTcwNjQyMjQ4Mg@@._V1_UY317_CR3,0,214,317_AL_.jpg" },
+        { "pic": "https://m.media-amazon.com/images/M/MV5BMTkxNjE0NzAxMF5BMl5BanBnXkFtZTcwNjQyMjQ4Mg@@._V1_UY317_CR3,0,214,317_AL_.jpg" }
+      ],
+      "imdb": "9.2",
+      "trailer": "https://www.youtube.com/embed/4E7uO4_S2rw",
+      "details": "Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan Harmon for Cartoon Network's late-night programming block Adult Swim. The series follows the misadventures of cynical mad scientist Rick Sanchez and his good-hearted but fretful grandson Morty Smith, who split their time between domestic life and interdimensional adventures",
+      "season": "4",
+      "episodes": "41",
+      "country": "usa",
+      "kind": "Adult animation, Animated sitcom, Science fiction",
+      "years": "2013-"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+    "title": "Breaking Bad",
+    "id": "breaking-bad",
+    "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.film1.nl%2Fimages%2Fportrait%2Foriginal%2F83590.jpg&f=1&nofb=1",
+    "casts": [
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTU0NTk3MDQ3OV5BMl5BanBnXkFtZTcwNDY3NzQ4Mg@@._V1_UY317_CR4,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTY1OTY5NjI5NV5BMl5BanBnXkFtZTcwODA4MjM0OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTU2OTQ3MzcxMV5BMl5BanBnXkFtZTcwMTk2MTk3Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTgxNDc1OTEwN15BMl5BanBnXkFtZTcwOTQyMTIwOQ@@._V1_UY317_CR1,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTUzOTQ2NDIzOF5BMl5BanBnXkFtZTcwMTE0OTYwOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BOWM5MDJjYTItMTRkNC00NTQ4LThkNjUtNDY3Mzk0YWMwMTBhXkEyXkFqcGdeQXVyNzQzNDYwMA@@._V1_UY317_CR18,0,214,317_AL_.jpg"
+      }
+    ],
+    "imdb": "9.5",
+    "trailer": "https://www.youtube.com/embed/HhesaQXLuRY",
+    "details": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan. The show aired on AMC from January 20, 2008, to September 29, 2013, consisting of five seasons for a total of 62 episodes.",
+    "season": "5",
+    "episodes": "62",
+    "country": "us",
+    "kind": "Serial drama, Crime drama, Thriller, Neo-Western, Black comedy, Tragedy",
+    "years": "2008-2013"
+  }

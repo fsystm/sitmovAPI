@@ -546,9 +546,144 @@
     "details": "How I Met Your Mother is an American sitcom, created by Craig Thomas and Carter Bays for CBS and was directed by Pamela Fryman. The series, which ran from 2005 to 2014, follows the main character, Ted Mosby, and his group of friends in New York City's Manhattan",
     "season": "9",
     "episodes": "208",
-    "country": "",
+    "country": "us",
     "kind": "Sitcom, Romantic comedy",
     "years": "2005-2014"
+  },
+  {
+    "title": "The 100",
+    "id": "the-100",
+    "pic": "https://dg31sz3gwrwan.cloudfront.net/poster/268592/999716-4-optimized.jpg",
+    "casts": [
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTQwMjIxNjYyMl5BMl5BanBnXkFtZTcwMzAyNzk4OQ@@._V1_UY317_CR14,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BNTIzOGEzYzQtMzVkYy00Y2JiLThmZDUtODFkODJjNmUxZGM3XkEyXkFqcGdeQXVyOTYwOTMwNjk@._V1_UY317_CR17,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTU5NzMxODkwOF5BMl5BanBnXkFtZTcwMzk2NDA5Nw@@._V1_UY317_CR19,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BZjdjMTEwMzYtMzcxMS00ZmNiLTgxMjQtYjExNjNiNTRiMjMzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BYTE3OWM4ZDUtMDliNi00NDlhLTgxYjgtNDhkYTcxY2EyYzA0XkEyXkFqcGdeQXVyMTQ1MjEwNjg@._V1_UY317_CR131,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTc0NzUzNDkzNV5BMl5BanBnXkFtZTcwMTUxMjQ5Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      }
+    ],
+    "imdb": "7.6",
+    "trailer": "https://www.youtube.com/embed/aDrsItJ_HU4",
+    "details": "The 100 is an American post-apocalyptic science fiction drama television series that premiered on March 19, 2014, on The CW and ended on September 30, 2020. The series, developed by Jason Rothenberg, is loosely based on the novel series of the same name by Kass Morgan.",
+    "season": "7",
+    "episodes": "100",
+    "country": "us",
+    "kind": "Action, Drama, Dystopian, Post-apocalyptic, Science fiction",
+    "years": "2014-2020"
+  },
+  {
+    "title": "The Witcher",
+    "id": "the-witcher",
+    "pic": "https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "casts": [
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BODI0MTYzNTIxNl5BMl5BanBnXkFtZTcwNjg2Nzc0NA@@._V1_UY317_CR26,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BZGQ4NDRjNjEtYThjMS00ZGQ4LThlM2QtOTgwYzJhZTg3NWNhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY317_CR5,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BODViM2JhMDAtMjg2Ni00NGFjLThiMDEtNGVmZTJhNmQwYWYwXkEyXkFqcGdeQXVyNTgzODg0MTc@._V1_UY317_CR47,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BZDJhNGVhNTgtZjgxMy00NjMyLThhNjAtZjYyYWZjMjk4Njk1XkEyXkFqcGdeQXVyNjQzMjMyNDI@._V1_UY317_CR12,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BZmViNmEwMjgtYTIxNi00YWJjLWI5OWEtNTczYTM1ZmRjM2UzXkEyXkFqcGdeQXVyMTA1MDUzMjgx._V1_UY317_CR12,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTQ1MDdkMjUtOTA5YS00YjA5LWFiNGQtOGM0YWYyMjU3N2YwXkEyXkFqcGdeQXVyNDk5MzM3Mzg@._V1_UY317_CR37,0,214,317_AL_.jpg"
+      }
+    ],
+    "imdb": "8.2",
+    "trailer": "https://www.youtube.com/embed/cSqi-8kAMmM",
+    "details": "The Witcher is a Polish-American fantasy drama streaming television series produced by Lauren Schmidt Hissrich. It is based on the book series of the same name by Polish writer Andrzej Sapkowski. Set on a fictional, medieval-inspired landmass known as the Continent, The Witcher explores the legend of Geralt of Rivia and princess Ciri, who are linked to each other by destiny",
+    "season": "1",
+    "episodes": "16",
+    "country": "us, pl",
+    "kind": "Fantasy, Serial drama, Adventure, Action",
+    "years": "2019-"
+  },
+  {
+    "title": "The Walking Dead",
+    "id": "the-walking-dead",
+    "pic": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/721941-4-optimized.jpg",
+    "casts": [
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTQ5ODE4NTgzMl5BMl5BanBnXkFtZTcwODI0MjAwMw@@._V1_UY317_CR5,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTcwNzAwMzc3OF5BMl5BanBnXkFtZTcwNzIzNjU3Nw@@._V1_UY317_CR20,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BNjYyNjg1OTU1M15BMl5BanBnXkFtZTgwNzYyNTkzMDI@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MzgxOF5BMl5BanBnXkFtZTgwMzM5NDg1MzE@._V1_UY317_CR18,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMjI2NDYyNjg4NF5BMl5BanBnXkFtZTcwMjI5OTMwNA@@._V1_UY317_CR9,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BYTQ1YTMxYWYtY2UyOS00NmViLWE4NTMtZTdkYmU2NTYyYjViXkEyXkFqcGdeQXVyNTU4MjIyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      }
+    ],
+    "imdb": "8.2",
+    "trailer": "https://www.youtube.com/embed/sfAc2U20uyg",
+    "details": "The Walking Dead is an American post-apocalyptic horror television series based on the comic book series of the same name. The series features a large ensemble cast as survivors of a zombie apocalypse, trying to stay alive under near-constant threat of attacks from zombies, colloquially known as "walkers".",
+    "season": "10",
+    "episodes": "177",
+    "country": "us",
+    "kind": "Horror, Neo-Western, Serial drama, Zombie apocalypse",
+    "years": "2010-"
+  },
+  {
+    "title": "Breaking Bad",
+    "id": "breaking-bad",
+    "pic": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.film1.nl%2Fimages%2Fportrait%2Foriginal%2F83590.jpg&f=1&nofb=1",
+    "casts": [
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTU0NTk3MDQ3OV5BMl5BanBnXkFtZTcwNDY3NzQ4Mg@@._V1_UY317_CR4,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTY1OTY5NjI5NV5BMl5BanBnXkFtZTcwODA4MjM0OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTU2OTQ3MzcxMV5BMl5BanBnXkFtZTcwMTk2MTk3Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTgxNDc1OTEwN15BMl5BanBnXkFtZTcwOTQyMTIwOQ@@._V1_UY317_CR1,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTUzOTQ2NDIzOF5BMl5BanBnXkFtZTcwMTE0OTYwOQ@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BOWM5MDJjYTItMTRkNC00NTQ4LThkNjUtNDY3Mzk0YWMwMTBhXkEyXkFqcGdeQXVyNzQzNDYwMA@@._V1_UY317_CR18,0,214,317_AL_.jpg"
+      }
+    ],
+    "imdb": "9.5",
+    "trailer": "https://www.youtube.com/embed/HhesaQXLuRY",
+    "details": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan. The show aired on AMC from January 20, 2008, to September 29, 2013, consisting of five seasons for a total of 62 episodes.",
+    "season": "5",
+    "episodes": "62",
+    "country": "us",
+    "kind": "Serial drama, Crime drama, Thriller, Neo-Western, Black comedy, Tragedy",
+    "years": "2008-2013"
   }
   ]
 }

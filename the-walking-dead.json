@@ -1,0 +1,33 @@
+{
+    "title": "The Walking Dead",
+    "id": "the-walking-dead",
+    "pic": "https://dg31sz3gwrwan.cloudfront.net/poster/153021/721941-4-optimized.jpg",
+    "casts": [
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTQ5ODE4NTgzMl5BMl5BanBnXkFtZTcwODI0MjAwMw@@._V1_UY317_CR5,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMTcwNzAwMzc3OF5BMl5BanBnXkFtZTcwNzIzNjU3Nw@@._V1_UY317_CR20,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BNjYyNjg1OTU1M15BMl5BanBnXkFtZTgwNzYyNTkzMDI@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MzgxOF5BMl5BanBnXkFtZTgwMzM5NDg1MzE@._V1_UY317_CR18,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BMjI2NDYyNjg4NF5BMl5BanBnXkFtZTcwMjI5OTMwNA@@._V1_UY317_CR9,0,214,317_AL_.jpg"
+      },
+      {
+        "pic": "https://m.media-amazon.com/images/M/MV5BYTQ1YTMxYWYtY2UyOS00NmViLWE4NTMtZTdkYmU2NTYyYjViXkEyXkFqcGdeQXVyNTU4MjIyMDE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+      }
+    ],
+    "imdb": "8.2",
+    "trailer": "https://www.youtube.com/embed/sfAc2U20uyg",
+    "details": "The Walking Dead is an American post-apocalyptic horror television series based on the comic book series of the same name. The series features a large ensemble cast as survivors of a zombie apocalypse, trying to stay alive under near-constant threat of attacks from zombies, colloquially known as "walkers".",
+    "season": "10",
+    "episodes": "177",
+    "country": "us",
+    "kind": "Horror, Neo-Western, Serial drama, Zombie apocalypse",
+    "years": "2010-"
+  }
